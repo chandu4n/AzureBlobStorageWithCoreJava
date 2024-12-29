@@ -19,6 +19,7 @@ public class BlobStorageMenu {
             System.out.println("3. Delete the file");
             System.out.println("4. Exit");
             System.out.println();
+            System.out.println("Enter you choice:");
             int choice = scanner.nextInt();
             switch (choice) {
                 case 1:
